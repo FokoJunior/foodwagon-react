@@ -9,4 +9,4 @@ const FoodItem = ({ image, alt }) => {
     );
 };
 
-export default FoodItem;
+export default FoodItem;  

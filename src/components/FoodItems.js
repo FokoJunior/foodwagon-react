@@ -9,7 +9,7 @@ const FoodItems = () => {
         { src: "./assets/images/image3.png", alt: "Food 3" },
         { src: "./assets/images/image.png", alt: "Food 4" }
     ];
-
+ 
     return (
         <section className="container py-5">
             <div className="row g-4">
