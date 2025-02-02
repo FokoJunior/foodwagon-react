@@ -4,10 +4,10 @@ import '../assets/css/styles.css';
 
 const FoodItems = () => {
     const foodImages = [
-        { src: "./assets/images/image1.png", alt: "Food 1" },
-        { src: "./assets/images/image2.png", alt: "Food 2" },
-        { src: "./assets/images/image3.png", alt: "Food 3" },
-        { src: "./assets/images/image.png", alt: "Food 4" }
+        { src: "../assets/images/image1.png", alt: "Food 1" },
+        { src: "../assets/images/image2.png", alt: "Food 2" },
+        { src: "../assets/images/image3.png", alt: "Food 3" },
+        { src: "../assets/images/image.png", alt: "Food 4" }
     ];
  
     return (
