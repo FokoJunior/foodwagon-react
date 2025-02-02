@@ -1,6 +1,6 @@
 import React from 'react';
 import FoodItem from './FoodItem';
-import './assets/css/styles.css';
+import '../assets/css/styles.css';
 
 const FoodItems = () => {
     const foodImages = [
